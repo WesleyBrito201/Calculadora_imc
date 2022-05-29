@@ -33,6 +33,17 @@ main {
     font: bold 2.5rem serif;
    
 }
+title_2{
+    width: 300px;
+    height: 40px;
+    font: bold 1.5rem serif;
+    background: #000;
+    color: rgb(150, 195, 2);
+    outline: none;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;   
+}
 select{
     width: 210px;
     height: 50px;
